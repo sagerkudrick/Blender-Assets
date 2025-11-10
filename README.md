@@ -6,7 +6,7 @@ This repository showcases a selection of **3D assets** I’ve created, including
 
 ## Texturing Examples
 
-Some of the texturing work was done in **Substance Painter**, showing material workflows and detailed textures:
+Texturing work done in **Substance Painter**, showing material workflows and detailed textures:
 
 <div align="center">
 
