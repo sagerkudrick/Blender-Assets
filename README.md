@@ -10,8 +10,7 @@ Some of the texturing work was done in **Substance Painter**, showing material w
 
 <div align="center">
 
-<img src="https://github.com/sagerkudrick/Blender-Assets/blob/main/images/substancepainter.png" width="70%" alt="Substance Painter Example 1"><br><br>
-<img src="https://github.com/sagerkudrick/Blender-Assets/blob/main/images/substancepainter2.png" width="200" height="750" alt="Substance Painter Example 2"><br><br>
+<img src="https://github.com/sagerkudrick/Blender-Assets/blob/main/images/substancepainter.png" width="80%" alt="Substance Painter Example 1"><br><br>
 
 </div>
 
