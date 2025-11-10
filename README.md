@@ -21,14 +21,14 @@ Some of the texturing work was done in **Substance Painter**, showing material w
 
 <div align="center">
 
+<!-- Tent Animation -->
+<img src="https://github.com/sagerkudrick/Blender-Assets/blob/main/images/tent-anim.gif" width="70%" alt="Tent Animation"><br><br>
+
 <!-- Bedroom Animation -->
 <img src="https://github.com/sagerkudrick/Blender-Assets/blob/main/images/bedroom.gif" width="70%" alt="Bedroom Animation"><br><br>
 
 <!-- Pistol Animation -->
 <img src="https://github.com/sagerkudrick/Blender-Assets/blob/main/images/pistol.gif" width="70%" alt="Pistol Animation"><br><br>
-
-<!-- Tent Animation -->
-<img src="https://github.com/sagerkudrick/Blender-Assets/blob/main/images/tent-anim.gif" width="70%" alt="Tent Animation"><br><br>
 
 </div>
 
@@ -40,9 +40,6 @@ Some of the texturing work was done in **Substance Painter**, showing material w
 
 <!-- Assets Overview -->
 <img src="https://github.com/sagerkudrick/Blender-Assets/blob/main/images/200%20assets.png" width="70%" alt="Assets Overview"><br><br>
-
-<!-- Clock -->
-<img src="https://github.com/sagerkudrick/Blender-Assets/blob/main/images/clock.png" width="70%" alt="Clock"><br><br>
 
 <!-- Food -->
 <img src="https://github.com/sagerkudrick/Blender-Assets/blob/main/images/food2.png" width="70%" alt="Food"><br><br>
